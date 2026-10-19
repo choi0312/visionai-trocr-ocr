@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "test_0000",
+    "condition": "degraded",
+    "reference": "RICE 4 10.66",
+    "prediction": "RICE 4 10.66"
+  },
+  {
+    "id": "test_0001",
+    "condition": "degraded",
+    "reference": "DATE 2026-08-21",
+    "prediction": "DATE 2026-08-21"
+  },
+  {
+    "id": "test_0002",
+    "condition": "degraded",
+    "reference": "EGGS 1 96.95",
+    "prediction": "EGGS 1 96.95"
+  },
+  {
+    "id": "test_0003",
+    "condition": "degraded",
+    "reference": "TOTAL 436.03",
+    "prediction": "TOTAL 436.03"
+  },
+  {
+    "id": "test_0004",
+    "condition": "degraded",
+    "reference": "RECEIPT 645337",
+    "prediction": "RECEIPT 645337"
+  },
+  {
+    "id": "test_0005",
+    "condition": "degraded",
+    "reference": "CASH 206.59",
+    "prediction": "CASH 206.59"
+  },
+  {
+    "id": "test_0006",
+    "condition": "degraded",
+    "reference": "CASH 65.66",
+    "prediction": "CASH 65.66"
+  },
+  {
+    "id": "test_0007",
+    "condition": "degraded",
+    "reference": "MILK 2 87.93",
+    "prediction": "MILK 2 87.93"
+  },
+  {
+    "id": "test_0008",
+    "condition": "degraded",
+    "reference": "MILK 6 3.72",
+    "prediction": "MILK 6 3.72"
+  },
+  {
+    "id": "test_0009",
+    "condition": "degraded",
+    "reference": "DATE 2026-07-24",
+    "prediction": "DATE 2026-07-24"
+  },
+  {
+    "id": "test_0010",
+    "condition": "degraded",
+    "reference": "DATE 2026-11-28",
+    "prediction": "DATE 2026-11-28"
+  },
+  {
+    "id": "test_0011",
+    "condition": "degraded",
+    "reference": "YOGURT 9 6.20",
+    "prediction": "YOGURT 9 6.20"
+  },
+  {
+    "id": "test_0012",
+    "condition": "degraded",
+    "reference": "RECEIPT 589478",
+    "prediction": "RECEIPT 589478"
+  },
+  {
+    "id": "test_0013",
+    "condition": "degraded",
+    "reference": "TEA 3 15.65",
+    "prediction": "TEA3 15.65"
+  },
+  {
+    "id": "test_0014",
+    "condition": "degraded",
+    "reference": "CHANGE 183.74",
+    "prediction": "CHANGE 183.74"
+  },
+  {
+    "id": "test_0015",
+    "condition": "degraded",
+    "reference": "SALT 8 15.81",
+    "prediction": "SALT 8 15.81"
+  },
+  {
+    "id": "test_0016",
+    "condition": "degraded",
+    "reference": "RECEIPT 167808",
+    "prediction": "RECEIPT 167808"
+  },
+  {
+    "id": "test_0017",
+    "condition": "degraded",
+    "reference": "RECEIPT 997728",
+    "prediction": "RECEIPT 997728"
+  },
+  {
+    "id": "test_0018",
+    "condition": "degraded",
+    "reference": "EGGS 4 20.02",
+    "prediction": "EGGS 4 20.02"
+  },
+  {
+    "id": "test_0019",
+    "condition": "degraded",
+    "reference": "CHEESE 1 97.67",
+    "prediction": "CHEESE1 97.67"
+  },
+  {
+    "id": "test_0020",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 340.63",
+    "prediction": "SUBTOTAL 340.63"
+  },
+  {
+    "id": "test_0021",
+    "condition": "degraded",
+    "reference": "DATE 2026-06-05",
+    "prediction": "DATE 2026-06-05"
+  },
+  {
+    "id": "test_0022",
+    "condition": "degraded",
+    "reference": "BANANA 1 99.12",
+    "prediction": "BANANA 1 99.12"
+  },
+  {
+    "id": "test_0023",
+    "condition": "degraded",
+    "reference": "RECEIPT 601515",
+    "prediction": "RECEIPT 601515"
+  },
+  {
+    "id": "test_0024",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 469.74",
+    "prediction": "SUBTOTAL 469.74"
+  },
+  {
+    "id": "test_0025",
+    "condition": "degraded",
+    "reference": "COOKIE 7 50.00",
+    "prediction": "COOKIE 7 50.00"
+  },
+  {
+    "id": "test_0026",
+    "condition": "degraded",
+    "reference": "RECEIPT 862057",
+    "prediction": "RECEIPT 862057"
+  },
+  {
+    "id": "test_0027",
+    "condition": "degraded",
+    "reference": "TAX 35.48",
+    "prediction": "TAX 35.48"
+  },
+  {
+    "id": "test_0028",
+    "condition": "degraded",
+    "reference": "DATE 2026-05-05",
+    "prediction": "DATE 2026-05-05"
+  },
+  {
+    "id": "test_0029",
+    "condition": "degraded",
+    "reference": "TAX 66.82",
+    "prediction": "TAX.66.82"
+  },
+  {
+    "id": "test_0030",
+    "condition": "degraded",
+    "reference": "COFFEE 2 59.25",
+    "prediction": "COFFEE 2 59.25"
+  },
+  {
+    "id": "test_0031",
+    "condition": "degraded",
+    "reference": "TAX 284.31",
+    "prediction": "TAX 284.31"
+  },
+  {
+    "id": "test_0032",
+    "condition": "degraded",
+    "reference": "RECEIPT 280865",
+    "prediction": "RECEIPT 280865"
+  },
+  {
+    "id": "test_0033",
+    "condition": "degraded",
+    "reference": "PASTA 7 46.09",
+    "prediction": "PASTA 7 46.09"
+  },
+  {
+    "id": "test_0034",
+    "condition": "degraded",
+    "reference": "COOKIE 9 37.85",
+    "prediction": "COOKIE 9 37.85"
+  },
+  {
+    "id": "test_0035",
+    "condition": "degraded",
+    "reference": "PEPPER 3 63.90",
+    "prediction": "PEPPER 3 63.90"
+  },
+  {
+    "id": "test_0036",
+    "condition": "degraded",
+    "reference": "TOTAL 467.78",
+    "prediction": "TOTAL 467.78"
+  },
+  {
+    "id": "test_0037",
+    "condition": "degraded",
+    "reference": "RECEIPT 921532",
+    "prediction": "RECEIPT 921532"
+  },
+  {
+    "id": "test_0038",
+    "condition": "degraded",
+    "reference": "TEA 2 30.60",
+    "prediction": "TEA 2.30.60"
+  },
+  {
+    "id": "test_0039",
+    "condition": "degraded",
+    "reference": "WATER 4 27.41",
+    "prediction": "WATER 4 27.41"
+  },
+  {
+    "id": "test_0040",
+    "condition": "degraded",
+    "reference": "YOGURT 5 60.56",
+    "prediction": "YOGURT 5 60.56"
+  },
+  {
+    "id": "test_0041",
+    "condition": "degraded",
+    "reference": "TOTAL 340.43",
+    "prediction": "TOTAL 340.43"
+  },
+  {
+    "id": "test_0042",
+    "condition": "degraded",
+    "reference": "TAX 230.77",
+    "prediction": "TAX 230.77"
+  },
+  {
+    "id": "test_0043",
+    "condition": "degraded",
+    "reference": "JUICE 1 31.81",
+    "prediction": "JUICE131.81"
+  },
+  {
+    "id": "test_0044",
+    "condition": "degraded",
+    "reference": "RECEIPT 326534",
+    "prediction": "RECEIPT 326534"
+  },
+  {
+    "id": "test_0045",
+    "condition": "degraded",
+    "reference": "RECEIPT 367352",
+    "prediction": "RECEIPT 367352"
+  },
+  {
+    "id": "test_0046",
+    "condition": "degraded",
+    "reference": "CHANGE 455.16",
+    "prediction": "CHANGE 455.16"
+  },
+  {
+    "id": "test_0047",
+    "condition": "degraded",
+    "reference": "CAKE 6 93.34",
+    "prediction": "CAKE:6 93.34"
+  },
+  {
+    "id": "test_0048",
+    "condition": "degraded",
+    "reference": "EGGS 7 63.08",
+    "prediction": "EGGS 7 63.08"
+  },
+  {
+    "id": "test_0049",
+    "condition": "degraded",
+    "reference": "RECEIPT 526541",
+    "prediction": "RECEIPT 526541"
+  },
+  {
+    "id": "test_0050",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 147.96",
+    "prediction": "SUBTOTAL 147.96"
+  },
+  {
+    "id": "test_0051",
+    "condition": "degraded",
+    "reference": "APPLE 3 87.25",
+    "prediction": "APPLE 387.25"
+  },
+  {
+    "id": "test_0052",
+    "condition": "degraded",
+    "reference": "TAX 184.81",
+    "prediction": "TAX 18481"
+  },
+  {
+    "id": "test_0053",
+    "condition": "degraded",
+    "reference": "DATE 2026-03-12",
+    "prediction": "DATE 2026-03-12"
+  },
+  {
+    "id": "test_0054",
+    "condition": "degraded",
+    "reference": "DATE 2026-08-19",
+    "prediction": "DATE 2026-08-19"
+  },
+  {
+    "id": "test_0055",
+    "condition": "degraded",
+    "reference": "WATER 7 93.98",
+    "prediction": "WATER 793.98"
+  },
+  {
+    "id": "test_0056",
+    "condition": "degraded",
+    "reference": "SOUP 7 76.00",
+    "prediction": "SOUP 7 76.00"
+  },
+  {
+    "id": "test_0057",
+    "condition": "degraded",
+    "reference": "CHANGE 341.18",
+    "prediction": "CHANGE 341.18"
+  },
+  {
+    "id": "test_0058",
+    "condition": "degraded",
+    "reference": "SALAD 2 13.56",
+    "prediction": "SALAD 213.56"
+  },
+  {
+    "id": "test_0059",
+    "condition": "degraded",
+    "reference": "TAX 323.00",
+    "prediction": "TAX 323.00"
+  },
+  {
+    "id": "test_0060",
+    "condition": "degraded",
+    "reference": "DATE 2026-09-22",
+    "prediction": "DATE 2026-09-22"
+  },
+  {
+    "id": "test_0061",
+    "condition": "degraded",
+    "reference": "CAKE 7 88.54",
+    "prediction": "CAKE 7.88.54"
+  },
+  {
+    "id": "test_0062",
+    "condition": "degraded",
+    "reference": "RECEIPT 817307",
+    "prediction": "RECEIPT 817307"
+  },
+  {
+    "id": "test_0063",
+    "condition": "degraded",
+    "reference": "RECEIPT 336001",
+    "prediction": "RECEIPT 336001"
+  },
+  {
+    "id": "test_0064",
+    "condition": "degraded",
+    "reference": "TOWEL 8 63.11",
+    "prediction": "TOWEL 8 63.11"
+  },
+  {
+    "id": "test_0065",
+    "condition": "degraded",
+    "reference": "RECEIPT 992104",
+    "prediction": "RECEIPT 992104"
+  },
+  {
+    "id": "test_0066",
+    "condition": "degraded",
+    "reference": "RECEIPT 512742",
+    "prediction": "RECEIPT 512742"
+  },
+  {
+    "id": "test_0067",
+    "condition": "degraded",
+    "reference": "PASTA 8 10.42",
+    "prediction": "PASTA 8 10.42"
+  },
+  {
+    "id": "test_0068",
+    "condition": "degraded",
+    "reference": "BUTTER 3 66.87",
+    "prediction": "BUTTER 3.66.87"
+  },
+  {
+    "id": "test_0069",
+    "condition": "degraded",
+    "reference": "RECEIPT 261177",
+    "prediction": "RECEIPT 261177"
+  },
+  {
+    "id": "test_0070",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 308.48",
+    "prediction": "SUBTOTAL 308.48"
+  },
+  {
+    "id": "test_0071",
+    "condition": "degraded",
+    "reference": "TOTAL 287.43",
+    "prediction": "TOTAL 287.43"
+  },
+  {
+    "id": "test_0072",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 72.53",
+    "prediction": "SUBTOTAL 72.53"
+  },
+  {
+    "id": "test_0073",
+    "condition": "degraded",
+    "reference": "RICE 4 79.52",
+    "prediction": "RICE4 79.52"
+  },
+  {
+    "id": "test_0074",
+    "condition": "degraded",
+    "reference": "EGGS 7 83.22",
+    "prediction": "EGGS 7.83.22"
+  },
+  {
+    "id": "test_0075",
+    "condition": "degraded",
+    "reference": "WATER 6 82.92",
+    "prediction": "WATER 682.92"
+  },
+  {
+    "id": "test_0076",
+    "condition": "degraded",
+    "reference": "RECEIPT 873253",
+    "prediction": "RECEIPT 873253"
+  },
+  {
+    "id": "test_0077",
+    "condition": "degraded",
+    "reference": "BANANA 9 31.61",
+    "prediction": "BANAWA 93161"
+  },
+  {
+    "id": "test_0078",
+    "condition": "degraded",
+    "reference": "SOUP 7 33.50",
+    "prediction": "SOUP 7.33.50"
+  },
+  {
+    "id": "test_0079",
+    "condition": "degraded",
+    "reference": "RECEIPT 759457",
+    "prediction": "RECEIPT 759457"
+  },
+  {
+    "id": "test_0080",
+    "condition": "degraded",
+    "reference": "WATER 7 3.89",
+    "prediction": "WATER 7 3.89"
+  },
+  {
+    "id": "test_0081",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 145.35",
+    "prediction": "SUBTOTAL 145.35"
+  },
+  {
+    "id": "test_0082",
+    "condition": "degraded",
+    "reference": "TOTAL 176.46",
+    "prediction": "TOTAL 176.46"
+  },
+  {
+    "id": "test_0083",
+    "condition": "degraded",
+    "reference": "RICE 1 1.08",
+    "prediction": "RICE 1 1.08"
+  },
+  {
+    "id": "test_0084",
+    "condition": "degraded",
+    "reference": "RECEIPT 205656",
+    "prediction": "RECEIPT 205656"
+  },
+  {
+    "id": "test_0085",
+    "condition": "degraded",
+    "reference": "APPLE 1 91.40",
+    "prediction": "APPLE 1 91.40"
+  },
+  {
+    "id": "test_0086",
+    "condition": "degraded",
+    "reference": "RECEIPT 654552",
+    "prediction": "RECEIPT 654552"
+  },
+  {
+    "id": "test_0087",
+    "condition": "degraded",
+    "reference": "APPLE 3 99.60",
+    "prediction": "APPLE 3 99.60"
+  },
+  {
+    "id": "test_0088",
+    "condition": "degraded",
+    "reference": "TEA 8 17.16",
+    "prediction": "TEA 8 17.16"
+  },
+  {
+    "id": "test_0089",
+    "condition": "degraded",
+    "reference": "SALT 3 8.17",
+    "prediction": "SALT 3 8.17"
+  },
+  {
+    "id": "test_0090",
+    "condition": "degraded",
+    "reference": "RECEIPT 464211",
+    "prediction": "RECEIPT 464211"
+  },
+  {
+    "id": "test_0091",
+    "condition": "degraded",
+    "reference": "RECEIPT 929303",
+    "prediction": "RECEIPT 929303"
+  },
+  {
+    "id": "test_0092",
+    "condition": "degraded",
+    "reference": "PEPPER 1 32.16",
+    "prediction": "PEPPER 132.16"
+  },
+  {
+    "id": "test_0093",
+    "condition": "degraded",
+    "reference": "RICE 8 84.44",
+    "prediction": "RICE-8 84.44"
+  },
+  {
+    "id": "test_0094",
+    "condition": "degraded",
+    "reference": "MILK 3 94.69",
+    "prediction": "MILK 3 94.69"
+  },
+  {
+    "id": "test_0095",
+    "condition": "degraded",
+    "reference": "DATE 2026-09-23",
+    "prediction": "DATE 2026-09-23"
+  },
+  {
+    "id": "test_0096",
+    "condition": "degraded",
+    "reference": "TAX 78.06",
+    "prediction": "TAX 78.06"
+  },
+  {
+    "id": "test_0097",
+    "condition": "degraded",
+    "reference": "SUGAR 3 45.30",
+    "prediction": "SUGAR 345.30"
+  },
+  {
+    "id": "test_0098",
+    "condition": "degraded",
+    "reference": "MILK 6 61.47",
+    "prediction": "MILK 6 61.47"
+  },
+  {
+    "id": "test_0099",
+    "condition": "degraded",
+    "reference": "TOWEL 5 54.18",
+    "prediction": "TOWEL 5 5418"
+  },
+  {
+    "id": "test_0100",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 167.77",
+    "prediction": "SUBTOTAL 167.77"
+  },
+  {
+    "id": "test_0101",
+    "condition": "degraded",
+    "reference": "RECEIPT 211613",
+    "prediction": "RECEIPT 211613"
+  },
+  {
+    "id": "test_0102",
+    "condition": "degraded",
+    "reference": "RECEIPT 677637",
+    "prediction": "RECEIPT 677637"
+  },
+  {
+    "id": "test_0103",
+    "condition": "degraded",
+    "reference": "BANANA 7 61.39",
+    "prediction": "BANANA 7 61.39"
+  },
+  {
+    "id": "test_0104",
+    "condition": "degraded",
+    "reference": "TEA 8 30.55",
+    "prediction": "TEA8 30.55"
+  },
+  {
+    "id": "test_0105",
+    "condition": "degraded",
+    "reference": "DATE 2026-11-20",
+    "prediction": "DATE 2026-11-20"
+  },
+  {
+    "id": "test_0106",
+    "condition": "degraded",
+    "reference": "DATE 2026-02-24",
+    "prediction": "DATE 2026-02-24"
+  },
+  {
+    "id": "test_0107",
+    "condition": "degraded",
+    "reference": "MILK 1 22.65",
+    "prediction": "MILK 1 22.65"
+  },
+  {
+    "id": "test_0108",
+    "condition": "degraded",
+    "reference": "APPLE 9 56.44",
+    "prediction": "APPLE 9.56.44"
+  },
+  {
+    "id": "test_0109",
+    "condition": "degraded",
+    "reference": "CHANGE 101.27",
+    "prediction": "CHANGE 101.27"
+  },
+  {
+    "id": "test_0110",
+    "condition": "degraded",
+    "reference": "COFFEE 2 90.23",
+    "prediction": "COFFEE 2.90.23"
+  },
+  {
+    "id": "test_0111",
+    "condition": "degraded",
+    "reference": "MILK 4 70.98",
+    "prediction": "MILK 4 70.98"
+  },
+  {
+    "id": "test_0112",
+    "condition": "degraded",
+    "reference": "COOKIE 3 19.04",
+    "prediction": "COOKIE 3 19.04"
+  },
+  {
+    "id": "test_0113",
+    "condition": "degraded",
+    "reference": "TOTAL 236.26",
+    "prediction": "TOTAL 236.26"
+  },
+  {
+    "id": "test_0114",
+    "condition": "degraded",
+    "reference": "RECEIPT 290175",
+    "prediction": "RECEIPT 290175"
+  },
+  {
+    "id": "test_0115",
+    "condition": "degraded",
+    "reference": "CASH 68.11",
+    "prediction": "CASH 68.11"
+  },
+  {
+    "id": "test_0116",
+    "condition": "degraded",
+    "reference": "MILK 3 25.01",
+    "prediction": "MILK 3 25.01"
+  },
+  {
+    "id": "test_0117",
+    "condition": "degraded",
+    "reference": "RECEIPT 548217",
+    "prediction": "RECEIPT'548217"
+  },
+  {
+    "id": "test_0118",
+    "condition": "degraded",
+    "reference": "DATE 2026-06-11",
+    "prediction": "DATE 2026-06-11"
+  },
+  {
+    "id": "test_0119",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 428.58",
+    "prediction": "SUBTOTAL 428.58"
+  },
+  {
+    "id": "test_0120",
+    "condition": "degraded",
+    "reference": "RECEIPT 662259",
+    "prediction": "RECEIPT 662259"
+  },
+  {
+    "id": "test_0121",
+    "condition": "degraded",
+    "reference": "CAKE 2 39.53",
+    "prediction": "CAKE 2 39.53"
+  },
+  {
+    "id": "test_0122",
+    "condition": "degraded",
+    "reference": "DATE 2026-03-04",
+    "prediction": "DATE 2026-03-04"
+  },
+  {
+    "id": "test_0123",
+    "condition": "degraded",
+    "reference": "CHEESE 8 24.61",
+    "prediction": "CHEESE 8 24.61"
+  },
+  {
+    "id": "test_0124",
+    "condition": "degraded",
+    "reference": "APPLE 3 62.84",
+    "prediction": "APPLE 3 62.84"
+  },
+  {
+    "id": "test_0125",
+    "condition": "degraded",
+    "reference": "SOUP 2 79.12",
+    "prediction": "SOUP 2.7912"
+  },
+  {
+    "id": "test_0126",
+    "condition": "degraded",
+    "reference": "MILK 7 25.52",
+    "prediction": "MILK 7 2552"
+  },
+  {
+    "id": "test_0127",
+    "condition": "degraded",
+    "reference": "CHANGE 269.70",
+    "prediction": "CHANGE 269.70"
+  },
+  {
+    "id": "test_0128",
+    "condition": "degraded",
+    "reference": "WATER 1 6.26",
+    "prediction": "WATER 1 6.26"
+  },
+  {
+    "id": "test_0129",
+    "condition": "degraded",
+    "reference": "TAX 328.91",
+    "prediction": "TAX 328.91"
+  },
+  {
+    "id": "test_0130",
+    "condition": "degraded",
+    "reference": "RECEIPT 495900",
+    "prediction": "RECEIPT 495900"
+  },
+  {
+    "id": "test_0131",
+    "condition": "degraded",
+    "reference": "RECEIPT 734475",
+    "prediction": "RECEIPT 734475"
+  },
+  {
+    "id": "test_0132",
+    "condition": "degraded",
+    "reference": "CHANGE 127.62",
+    "prediction": "CHANGE 127.62"
+  },
+  {
+    "id": "test_0133",
+    "condition": "degraded",
+    "reference": "TOTAL 156.98",
+    "prediction": "TOTAL 156.98"
+  },
+  {
+    "id": "test_0134",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 361.56",
+    "prediction": "SUBTOTAL 36156"
+  },
+  {
+    "id": "test_0135",
+    "condition": "degraded",
+    "reference": "RECEIPT 692232",
+    "prediction": "RECEIPT 692232"
+  },
+  {
+    "id": "test_0136",
+    "condition": "degraded",
+    "reference": "CHEESE 1 59.43",
+    "prediction": "CHEESE 1 59.43"
+  },
+  {
+    "id": "test_0137",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 460.50",
+    "prediction": "SUBTOTAL 460.50"
+  },
+  {
+    "id": "test_0138",
+    "condition": "degraded",
+    "reference": "RECEIPT 946719",
+    "prediction": "RECEIPT 966719"
+  },
+  {
+    "id": "test_0139",
+    "condition": "degraded",
+    "reference": "CHEESE 3 25.82",
+    "prediction": "CHEESE 32582"
+  },
+  {
+    "id": "test_0140",
+    "condition": "degraded",
+    "reference": "TEA 3 27.38",
+    "prediction": "TEA 3 27:38"
+  },
+  {
+    "id": "test_0141",
+    "condition": "degraded",
+    "reference": "CHANGE 85.99",
+    "prediction": "CHANGE 85.99"
+  },
+  {
+    "id": "test_0142",
+    "condition": "degraded",
+    "reference": "RECEIPT 736356",
+    "prediction": "RECEIPT 736356"
+  },
+  {
+    "id": "test_0143",
+    "condition": "degraded",
+    "reference": "WATER 5 90.64",
+    "prediction": "WATER 5.90.64"
+  },
+  {
+    "id": "test_0144",
+    "condition": "degraded",
+    "reference": "BREAD 5 95.45",
+    "prediction": "BREAD 5 95.45"
+  },
+  {
+    "id": "test_0145",
+    "condition": "degraded",
+    "reference": "CHANGE 167.79",
+    "prediction": "CHANGE- 167.79"
+  },
+  {
+    "id": "test_0146",
+    "condition": "degraded",
+    "reference": "DATE 2026-01-12",
+    "prediction": "DATE 2026-01-12"
+  },
+  {
+    "id": "test_0147",
+    "condition": "degraded",
+    "reference": "RECEIPT 428881",
+    "prediction": "RECEIPT 428881"
+  },
+  {
+    "id": "test_0148",
+    "condition": "degraded",
+    "reference": "CEREAL 1 41.11",
+    "prediction": "CEREAL 14111"
+  },
+  {
+    "id": "test_0149",
+    "condition": "degraded",
+    "reference": "PEPPER 7 12.95",
+    "prediction": "PEPPER 7 12.95"
+  },
+  {
+    "id": "test_0150",
+    "condition": "degraded",
+    "reference": "DATE 2026-02-03",
+    "prediction": "DATE 2026-02-03"
+  },
+  {
+    "id": "test_0151",
+    "condition": "degraded",
+    "reference": "SOAP 6 11.56",
+    "prediction": "SOAP 6 11.56"
+  },
+  {
+    "id": "test_0152",
+    "condition": "degraded",
+    "reference": "DATE 2026-01-18",
+    "prediction": "DATE20206-01-18"
+  },
+  {
+    "id": "test_0153",
+    "condition": "degraded",
+    "reference": "RECEIPT 911813",
+    "prediction": "RECEIPT 911813"
+  },
+  {
+    "id": "test_0154",
+    "condition": "degraded",
+    "reference": "DATE 2026-04-02",
+    "prediction": "DATE 2026-04-02"
+  },
+  {
+    "id": "test_0155",
+    "condition": "degraded",
+    "reference": "BREAD 3 12.34",
+    "prediction": "BREAD 3 12.34"
+  },
+  {
+    "id": "test_0156",
+    "condition": "degraded",
+    "reference": "DATE 2026-09-07",
+    "prediction": "DATE 2026-09-07"
+  },
+  {
+    "id": "test_0157",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 130.16",
+    "prediction": "SUBTOTAL 130.16"
+  },
+  {
+    "id": "test_0158",
+    "condition": "degraded",
+    "reference": "RECEIPT 508040",
+    "prediction": "RECEIPT 508040"
+  },
+  {
+    "id": "test_0159",
+    "condition": "degraded",
+    "reference": "RECEIPT 746460",
+    "prediction": "RECEIPT 746460"
+  },
+  {
+    "id": "test_0160",
+    "condition": "degraded",
+    "reference": "TOTAL 98.64",
+    "prediction": "TOTAL 98.64"
+  },
+  {
+    "id": "test_0161",
+    "condition": "degraded",
+    "reference": "DATE 2026-05-17",
+    "prediction": "DATE 2026-05:17"
+  },
+  {
+    "id": "test_0162",
+    "condition": "degraded",
+    "reference": "DATE 2026-11-19",
+    "prediction": "DATE 2026-11-19"
+  },
+  {
+    "id": "test_0163",
+    "condition": "degraded",
+    "reference": "RECEIPT 912000",
+    "prediction": "RECEIPT 912000"
+  },
+  {
+    "id": "test_0164",
+    "condition": "degraded",
+    "reference": "RECEIPT 115069",
+    "prediction": "RECEIPT 115069"
+  },
+  {
+    "id": "test_0165",
+    "condition": "degraded",
+    "reference": "CAKE 8 75.71",
+    "prediction": "CAKE 8 75.71"
+  },
+  {
+    "id": "test_0166",
+    "condition": "degraded",
+    "reference": "TOTAL 115.23",
+    "prediction": "TOTAL 115.23"
+  },
+  {
+    "id": "test_0167",
+    "condition": "degraded",
+    "reference": "DATE 2026-07-10",
+    "prediction": "DATE 2026-07-10"
+  },
+  {
+    "id": "test_0168",
+    "condition": "degraded",
+    "reference": "BREAD 2 15.68",
+    "prediction": "BREAD 2 15.68"
+  },
+  {
+    "id": "test_0169",
+    "condition": "degraded",
+    "reference": "RECEIPT 671194",
+    "prediction": "RECEIPT 671194"
+  },
+  {
+    "id": "test_0170",
+    "condition": "degraded",
+    "reference": "CHANGE 138.86",
+    "prediction": "CHANGE 138.86"
+  },
+  {
+    "id": "test_0171",
+    "condition": "degraded",
+    "reference": "BUTTER 8 68.65",
+    "prediction": "BUTTER 8 68.65"
+  },
+  {
+    "id": "test_0172",
+    "condition": "degraded",
+    "reference": "CASH 431.68",
+    "prediction": "CASH 431.68"
+  },
+  {
+    "id": "test_0173",
+    "condition": "degraded",
+    "reference": "MILK 7 6.35",
+    "prediction": "MILK 7 6.35"
+  },
+  {
+    "id": "test_0174",
+    "condition": "degraded",
+    "reference": "RECEIPT 432892",
+    "prediction": "RECEIPT 432892"
+  },
+  {
+    "id": "test_0175",
+    "condition": "degraded",
+    "reference": "RECEIPT 549946",
+    "prediction": "RECEIPT 549946"
+  },
+  {
+    "id": "test_0176",
+    "condition": "degraded",
+    "reference": "TAX 103.84",
+    "prediction": "TAX 103.84"
+  },
+  {
+    "id": "test_0177",
+    "condition": "degraded",
+    "reference": "RECEIPT 922378",
+    "prediction": "RECEIPT 922378"
+  },
+  {
+    "id": "test_0178",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 61.12",
+    "prediction": "SUBTOTAL61.12"
+  },
+  {
+    "id": "test_0179",
+    "condition": "degraded",
+    "reference": "CEREAL 9 13.90",
+    "prediction": "CEREAI 9 13.90"
+  },
+  {
+    "id": "test_0180",
+    "condition": "degraded",
+    "reference": "SUBTOTAL 157.11",
+    "prediction": "SUBTOTAL 157.11"
+  },
+  {
+    "id": "test_0181",
+    "condition": "degraded",
+    "reference": "SUGAR 2 24.55",
+    "prediction": "SUGAR 22455"
+  },
+  {
+    "id": "test_0182",
+    "condition": "degraded",
+    "reference": "DATE 2026-10-04",
+    "prediction": "DATE 2026:10-04"
+  },
+  {
+    "id": "test_0183",
+    "condition": "degraded",
+    "reference": "DATE 2026-06-27",
+    "prediction": "DATE 2026-06-27"
+  },
+  {
+    "id": "test_0184",
+    "condition": "degraded",
+    "reference": "DATE 2026-11-03",
+    "prediction": "DATE 2026-11-03"
+  },
+  {
+    "id": "test_0185",
+    "condition": "degraded",
+    "reference": "TOTAL 117.10",
+    "prediction": "TOTAL 117.10"
+  },
+  {
+    "id": "test_0186",
+    "condition": "degraded",
+    "reference": "CASH 317.14",
+    "prediction": "CASH 317.14"
+  },
+  {
+    "id": "test_0187",
+    "condition": "degraded",
+    "reference": "TEA 1 88.81",
+    "prediction": "TEA 1 88.81"
+  },
+  {
+    "id": "test_0188",
+    "condition": "degraded",
+    "reference": "TEA 1 54.66",
+    "prediction": "TEA1 54.66"
+  },
+  {
+    "id": "test_0189",
+    "condition": "degraded",
+    "reference": "CHANGE 130.58",
+    "prediction": "CHANGE 130.58"
+  },
+  {
+    "id": "test_0190",
+    "condition": "degraded",
+    "reference": "DATE 2026-04-09",
+    "prediction": "DATE 2026-04-09"
+  },
+  {
+    "id": "test_0191",
+    "condition": "degraded",
+    "reference": "DATE 2026-02-19",
+    "prediction": "DATE 2026-02-19"
+  },
+  {
+    "id": "test_0192",
+    "condition": "degraded",
+    "reference": "DATE 2026-08-14",
+    "prediction": "DATE 2026-08-14"
+  },
+  {
+    "id": "test_0193",
+    "condition": "degraded",
+    "reference": "DATE 2026-04-19",
+    "prediction": "DATE 2026-04-19"
+  },
+  {
+    "id": "test_0194",
+    "condition": "degraded",
+    "reference": "YOGURT 5 97.15",
+    "prediction": "YOGURT 5 97.15"
+  },
+  {
+    "id": "test_0195",
+    "condition": "degraded",
+    "reference": "RECEIPT 469364",
+    "prediction": "RECEIPT 469364"
+  },
+  {
+    "id": "test_0196",
+    "condition": "degraded",
+    "reference": "BUTTER 4 12.90",
+    "prediction": "BUTTER 412.90"
+  },
+  {
+    "id": "test_0197",
+    "condition": "degraded",
+    "reference": "EGGS 1 54.88",
+    "prediction": "EGGS 1 54.88"
+  },
+  {
+    "id": "test_0198",
+    "condition": "degraded",
+    "reference": "SOAP 5 99.59",
+    "prediction": "SOAP 5 999.59"
+  },
+  {
+    "id": "test_0199",
+    "condition": "degraded",
+    "reference": "PEPPER 7 72.30",
+    "prediction": "PEPPER 7 72.30"
+  }
+]

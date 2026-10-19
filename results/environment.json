@@ -1,0 +1,28 @@
+{
+  "model": "microsoft/trocr-small-printed",
+  "revision": "04e994ab854b0089d4929f48c2b4dbe2ce78a340",
+  "seed": 42,
+  "epochs": 12,
+  "batch_size": 16,
+  "optimizer": "AdamW",
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "trainable_parameters": 39636480,
+  "total_parameters": 61596672,
+  "encoder_frozen": true,
+  "training_wall_s": 49.13090326078236,
+  "encoding_s": 9.453853933140635,
+  "best_epoch": 4,
+  "best_val_cer": 0.0020273694880892043,
+  "gpu": "NVIDIA A40",
+  "python": "3.12.3",
+  "packages": {
+    "torch": "2.9.1+cu128",
+    "transformers": "4.57.1",
+    "Pillow": "11.3.0",
+    "numpy": "2.2.6",
+    "sentencepiece": "0.2.1"
+  },
+  "loss_implementation": "explicit aligned sequence CE; tokenizer BOS stripped; decoder input EOS-start shifted once",
+  "evaluation": "case-sensitive; whitespace collapse; corpus edit-count CER/WER; per-line exact match; greedy decoding max_new_tokens47; original paired clean/degraded test strings; no detection"
+}

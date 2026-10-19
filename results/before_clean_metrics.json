@@ -1,0 +1,12 @@
+{
+  "n": 200,
+  "cer": 0.004540295119182747,
+  "wer": 0.043568464730290454,
+  "exact_match": 0.94,
+  "char_edits": 12,
+  "reference_chars": 2643,
+  "word_edits": 21,
+  "reference_words": 482,
+  "loss": 0.046431034207344055,
+  "decoder_eval_s": 0.6846989989280701
+}

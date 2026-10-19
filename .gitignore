@@ -1,0 +1,8 @@
+.env
+.private/
+__pycache__/
+*.pyc
+*.pt
+*.log
+data/images/
+*.docx

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "test_0077",
+    "condition": "degraded",
+    "reference": "BANANA 9 31.61",
+    "prediction": "BANANA 9 31.61"
+  },
+  {
+    "id": "test_0181",
+    "condition": "degraded",
+    "reference": "SUGAR 2 24.55",
+    "prediction": "SUGAR 22455"
+  }
+]

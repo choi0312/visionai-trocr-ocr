@@ -1,0 +1,8 @@
+{
+  "budget_usd": 5,
+  "pods_deleted": true,
+  "hourly_usd": 0.59,
+  "elapsed_minutes": 7.726798935731252,
+  "estimated_gpu_usd_total": 0.07598018953469063,
+  "note": "Estimate from quoted rate and provision-to-delete time, not final invoice; includes environment setup and alignment diagnostic."
+}

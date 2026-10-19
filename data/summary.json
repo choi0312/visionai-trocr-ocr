@@ -1,0 +1,24 @@
+{
+  "seed": 42,
+  "counts": {
+    "train": 1000,
+    "val": 150,
+    "test": 200
+  },
+  "unique_texts": 1350,
+  "font_sha256": {
+    "sans.ttf": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d",
+    "mono.ttf": "2cb2adb378a8f574213e23df697050b83c54c27df465a2015552740b2769a081",
+    "serif.ttf": "4d8e6761424656867019081a1a01336f3cb086982682698714054fc33f782713"
+  },
+  "manifest_sha256": "d0928759612df261fcfebf46b0a4d367b84adcc142eb396c85d32f2fa6164d59",
+  "dataset_type": "synthetic English receipt lines; same fonts and grammar across splits; exact text disjoint",
+  "degradation": "angle uniform[-4,4] deg, Gaussian blur radius[0.4,1.0], contrast[0.45,0.75], Gaussian noise sd5",
+  "generation_environment": {
+    "Python": "3.12",
+    "Pillow": "12.3.0",
+    "numpy": "2.3.5",
+    "FreeType": "2.14.3",
+    "note": "Exact published PNGs and SHA ledger are authoritative; font rasterizer versions can change regenerated pixels."
+  }
+}
